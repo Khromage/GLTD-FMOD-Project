@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e27b1550-e6e3-4ae8-a90b-874fb5361cba}">
+		<property name="assetPath">
+			<value>SFX Clips/Grass Footsteps/Grass Variations.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>2.62546875</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3015d345-eaa2-40c9-ab5d-9ae576a748a5}</destination>
+		</relationship>
+	</object>
+</objects>

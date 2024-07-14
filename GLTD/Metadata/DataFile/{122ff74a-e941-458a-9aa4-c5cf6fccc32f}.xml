@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{122ff74a-e941-458a-9aa4-c5cf6fccc32f}">
+		<property name="assetPath">
+			<value>Sound/firefly4.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3015d345-eaa2-40c9-ab5d-9ae576a748a5}</destination>
+		</relationship>
+	</object>
+</objects>

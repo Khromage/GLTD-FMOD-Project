@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{cdc19852-5266-4d4b-bf7d-75b6028bd02c}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../GitHub/Gaian-Labyrinth-Tower-Defense/Gaian Labyrinth Tower Defense</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{0713220d-9c50-43d7-bc92-770c04228ae8}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{5f22648a-a07c-459d-9847-a3e3b991d6e6}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{e2b54da4-b81a-4ccf-affc-8f70cf8246a3}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{3b796f48-71c9-42c0-9527-00fce75ca9ca}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{3c94ebb6-6d92-4026-8a9c-6e33bdd9cf8d}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{5ef611a2-68c8-4ddb-aa80-f63664410207}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{3015d345-eaa2-40c9-ab5d-9ae576a748a5}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{6bd57923-a965-4d3b-953d-ae3668e2e822}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{c90ce476-d400-4821-92c1-5eac8d860034}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{7a2f2567-c963-4cdd-80c1-68a28edfef28}</destination>
+		</relationship>
+	</object>
+</objects>

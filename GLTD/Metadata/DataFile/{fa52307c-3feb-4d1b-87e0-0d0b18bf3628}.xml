@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{fa52307c-3feb-4d1b-87e0-0d0b18bf3628}">
+		<property name="assetPath">
+			<value>Sound/Hit_Hurt.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3015d345-eaa2-40c9-ab5d-9ae576a748a5}</destination>
+		</relationship>
+	</object>
+</objects>

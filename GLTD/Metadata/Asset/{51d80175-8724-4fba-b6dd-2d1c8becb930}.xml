@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{51d80175-8724-4fba-b6dd-2d1c8becb930}">
+		<property name="assetPath">
+			<value>SFX Clips/Grass Footsteps/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3015d345-eaa2-40c9-ab5d-9ae576a748a5}</destination>
+		</relationship>
+	</object>
+</objects>
