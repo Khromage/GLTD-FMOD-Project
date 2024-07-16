@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="MasterAssetFolder" id="{3015d345-eaa2-40c9-ab5d-9ae576a748a5}">
-		<property name="assetDirectory">
-			<value>../../GitHub/Gaian-Labyrinth-Tower-Defense/Gaian Labyrinth Tower Defense/Assets/Audio</value>
-		</property>
+		<property name="assetDirectory" />
 	</object>
 </objects>
